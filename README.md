@@ -1,2 +1,0 @@
-# food_app_clone
-FOOD APP CLONE REACT NATIVE

@@ -10,7 +10,7 @@ import BottomTab from './app/navigation/BottomTab';
 const Stack = createNativeStackNavigator();
 export default function App() {
   
-  const defaultAddresss = { "city": "Shanghai", "country": "China", "district": "Pudong", "isoCountryCode": "CN", "name": "33 East Nanjing Rd", "postalCode": "94108", "region": "SH", "street": "Stockton St", "streetNumber": "1", "subregion": "San Francisco County", "timezone": "America/Los_Angeles" }
+  const defaultAddresss = { "city": "Karachi", "country": "Pakistan", "district": "Nazimabad", "isoCountryCode": "PAK", "name": "A707 BLOCK N", "postalCode": "74708", "region": "SH", "street": "2nd Street", "streetNumber": "2", "subregion": "North Nazimabad", "timezone": "America/Los_Angeles" }
   const [fontsLoaded] = useFonts({
     regular: require('./assets/fonts/Poppins-Regular.ttf'),
     light: require('./assets/fonts/Poppins-Light.ttf'),
